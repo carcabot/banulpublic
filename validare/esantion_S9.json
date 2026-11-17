@@ -1,0 +1,112 @@
+[
+ {
+  "id": 1430,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "COMUNA SOHODOL",
+  "cui": "4562168",
+  "titlu": "5 anulări: LUCRARI ,, MODERNIZARE DRUM COMUNAL DC90-5,2KM, COMUNA SOHODOL, JUDEȚUL ALBA”",
+  "valoare": 3913101.53,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-11-17\", \"anunt\": \"SCNA1095409\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100417249\"}, {\"data\": \"2024-02-08\", \"anunt\": \"SCNA1098868\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100441470\"}, {\"data\": \"2024-03-11\", \"anunt\": \"SCNA1100316\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100449322\"}, {\"data\": \"2024-05-17\", \"anunt\": \"SCNA1104051\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100466876\"}, {\"data\": \"2024-06-10\", \"anunt\": \"SCNA1105417\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100472710\"}], \"atribuiri\": [{\"data\": \"2024-11-18\", \"anunt\": \"SCNA1113810\", \"valoare\": 3913101.53, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100505933\"}]}",
+  "_extra": "anulări: ['2023-11-17', '2024-02-08', '2024-03-11', '2024-05-17', '2024-06-10'] atribuiri: [('2024-11-18', 3.91)]"
+ },
+ {
+  "id": 1498,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "JUDETUL TELEORMAN",
+  "cui": "4652686",
+  "titlu": "5 anulări: Lucrari de executie pentru rest de executat, la obiectivul de investitii \"Extinderea si dotarea sectiei UPU a ",
+  "valoare": 3724558.26,
+  "detalii": "{\"anulari\": [{\"data\": \"2024-03-15\", \"anunt\": \"SCNA1100556\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100450551\"}, {\"data\": \"2024-03-15\", \"anunt\": \"SCNA1100557\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100450553\"}, {\"data\": \"2024-07-01\", \"anunt\": \"SCNA1106630\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100469719\"}, {\"data\": \"2024-09-26\", \"anunt\": \"SCNA1111172\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100497054\"}, {\"data\": \"2024-11-06\", \"anunt\": \"SCNA1113293\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100414609\"}], \"atribuiri\": [{\"data\": \"2026-03-19\", \"anunt\": \"SCNA1116853\", \"valoare\": 3724558.26, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100616909\"}]}",
+  "_extra": "anulări: ['2024-03-15', '2024-03-15', '2024-07-01', '2024-09-26', '2024-11-06'] atribuiri: [('2026-03-19', 3.72)]"
+ },
+ {
+  "id": 1245,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "OCOLUL SILVIC COMUNAL TELCIU R.A.",
+  "cui": "RO 25327840",
+  "titlu": "8 anulări: Prestari servicii exploatare forestiera",
+  "valoare": 3691360.28,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-02-20\", \"anunt\": \"SCNA1083038\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100356115\"}, {\"data\": \"2023-06-03\", \"anunt\": \"SCNA1087187\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100374917\"}, {\"data\": \"2024-01-15\", \"anunt\": \"CAN1119319\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100432802\"}, {\"data\": \"2024-02-21\", \"anunt\": \"CAN1121431\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100444741\"}, {\"data\": \"2025-04-02\", \"anunt\": \"CAN1144365\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100538776\"}, {\"data\": \"2026-06-09\", \"anunt\": \"CAN1169280\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100634069\"}, {\"data\": \"2026-08-19\", \"anunt\": \"CAN1173012\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100649357\"}, {\"data\": \"2026-10-14\", \"anunt\": \"CAN1175821\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100660846\"}], \"atribuiri\": [{\"data\": \"2023-03-16\", \"anunt\": \"SCNA1083892\", \"valoare\": 421195.5, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100361487\"}, {\"data\": \"2023-04-05\", \"anunt\": \"SCNA1084672\", \"valoare\": 44049.92, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100366085\"}, {\"data\": \"2023-04-26\", \"anunt\": \"SCNA1085549\", \"valoare\": 189778.43, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100370493\"}, {\"data\": \"2023-07-10\", \"anunt\": \"SCNA1088914\", \"valoare\": 49800.25, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100387077\"}]}",
+  "_extra": "anulări: ['2023-02-20', '2023-06-03', '2024-01-15', '2024-02-21', '2025-04-02', '2026-06-09'] atribuiri: [('2023-03-16', 0.42), ('2023-04-05', 0.04), ('2023-04-26', 0.19)]"
+ },
+ {
+  "id": 1303,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "GOSCOM S.A.",
+  "cui": "10138656",
+  "titlu": "5 anulări: ACHIZITIE PELETI DIN LEMN PENTRU FOC",
+  "valoare": 1018700.0,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-05-16\", \"anunt\": \"SCNA1086380\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100375215\"}, {\"data\": \"2023-09-17\", \"anunt\": \"SCNA1092232\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100402325\"}, {\"data\": \"2024-09-17\", \"anunt\": \"SCNA1110681\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100494935\"}, {\"data\": \"2025-06-25\", \"anunt\": \"SCNA1122018\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100557477\"}, {\"data\": \"2026-07-13\", \"anunt\": \"SCNA1134923\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100641955\"}], \"atribuiri\": [{\"data\": \"2024-01-09\", \"anunt\": \"SCNA1097611\", \"valoare\": 239000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100430186\"}, {\"data\": \"2024-10-22\", \"anunt\": \"SCNA1112511\", \"valoare\": 155700.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100503317\"}, {\"data\": \"2025-07-31\", \"anunt\": \"SCNA1123626\", \"valoare\": 274000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100565627\"}, {\"data\": \"2026-08-27\", \"anunt\": \"SCNA1136411\", \"valoare\": 350000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100651307\"}]}",
+  "_extra": "anulări: ['2023-05-16', '2023-09-17', '2024-09-17', '2025-06-25', '2026-07-13'] atribuiri: [('2024-01-09', 0.24), ('2024-10-22', 0.16), ('2025-07-31', 0.27)]"
+ },
+ {
+  "id": 1280,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "ORASUL BALS",
+  "cui": "4286437",
+  "titlu": "5 anulări: Lucrari de constructii, instalatii si echipamente tehnologice si functionale- rest de executat ,   în cadrul P",
+  "valoare": 794825.01,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-04-10\", \"anunt\": \"SCNA1084823\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100367035\"}, {\"data\": \"2023-04-10\", \"anunt\": \"SCNA1084826\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100367042\"}, {\"data\": \"2023-04-10\", \"anunt\": \"SCNA1084827\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100367043\"}, {\"data\": \"2023-05-23\", \"anunt\": \"SCNA1086737\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100377257\"}, {\"data\": \"2023-06-06\", \"anunt\": \"SCNA1087228\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100379534\"}], \"atribuiri\": [{\"data\": \"2023-08-31\", \"anunt\": \"SCNA1091492\", \"valoare\": 794825.01, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100399182\"}]}",
+  "_extra": "anulări: ['2023-04-10', '2023-04-10', '2023-04-10', '2023-05-23', '2023-06-06'] atribuiri: [('2023-08-31', 0.79)]"
+ },
+ {
+  "id": 1235,
+  "tip": "S9",
+  "scor": 2,
+  "entitate": "COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+  "cui": "16054368",
+  "titlu": "3 anulări: Lucrari de intretinere periodica  – Tratamente bituminoase executate la rece pe reteaua de drumuri din adminis",
+  "valoare": 0.0,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-02-09\", \"anunt\": \"CAN1097425\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100353678\"}, {\"data\": \"2023-03-30\", \"anunt\": \"CAN1100443\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100364312\"}, {\"data\": \"2023-05-11\", \"anunt\": \"CAN1103287\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100373676\"}], \"atribuiri\": []}",
+  "_extra": "anulări: ['2023-02-09', '2023-03-30', '2023-05-11'] atribuiri: []"
+ },
+ {
+  "id": 1261,
+  "tip": "S9",
+  "scor": 2,
+  "entitate": "APA CANAL S.A.",
+  "cui": "RO 16914128",
+  "titlu": "4 anulări: Servicii de reparatii motoare electrice si electropompe pentru apa potabila si ape uzate",
+  "valoare": 1469737.56,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-06-20\", \"anunt\": \"SCNA1087972\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100382880\"}, {\"data\": \"2023-06-20\", \"anunt\": \"SCNA1087974\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100382883\"}, {\"data\": \"2024-02-15\", \"anunt\": \"SCNA1099127\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100441421\"}, {\"data\": \"2025-04-07\", \"anunt\": \"SCNA1118954\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100540511\"}], \"atribuiri\": [{\"data\": \"2023-03-10\", \"anunt\": \"SCNA1083694\", \"valoare\": 400682.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100360408\"}, {\"data\": \"2024-05-23\", \"anunt\": \"SCNA1104357\", \"valoare\": 504805.76, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100468135\"}, {\"data\": \"2025-07-08\", \"anunt\": \"SCNA1122586\", \"valoare\": 564249.8, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100558788\"}]}",
+  "_extra": "anulări: ['2023-06-20', '2023-06-20', '2024-02-15', '2025-04-07'] atribuiri: [('2023-03-10', 0.4), ('2024-05-23', 0.5), ('2025-07-08', 0.56)]"
+ },
+ {
+  "id": 1413,
+  "tip": "S9",
+  "scor": 2,
+  "entitate": "ORASUL PETRILA",
+  "cui": "4375097",
+  "titlu": "3 anulări: Executie lucrari in cadrul proiectului „Modernizare infrastructură rutieră în oraşul Petrila” cofinantat prin ",
+  "valoare": 0.0,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-10-05\", \"anunt\": \"SCNA1093289\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100406941\"}, {\"data\": \"2023-11-15\", \"anunt\": \"SCNA1095263\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100416515\"}, {\"data\": \"2023-12-18\", \"anunt\": \"SCNA1096597\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100424309\"}], \"atribuiri\": []}",
+  "_extra": "anulări: ['2023-10-05', '2023-11-15', '2023-12-18'] atribuiri: []"
+ },
+ {
+  "id": 1672,
+  "tip": "S9",
+  "scor": 3,
+  "entitate": "Primaria Municipiului Tecuci",
+  "cui": "4269312",
+  "titlu": "5 anulări: Achiziție echipamente pentru dotare cabinet de legislație rutieră în cadrul proiectului ”DOTAREA CU MOBILIER, ",
+  "valoare": 0.0,
+  "detalii": "{\"anulari\": [{\"data\": \"2025-05-27\", \"anunt\": \"SCNA1120808\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100551298\"}, {\"data\": \"2025-06-19\", \"anunt\": \"SCNA1121797\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100556491\"}, {\"data\": \"2025-07-08\", \"anunt\": \"SCNA1122568\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100560197\"}, {\"data\": \"2025-07-29\", \"anunt\": \"SCNA1123532\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100565082\"}, {\"data\": \"2025-10-28\", \"anunt\": \"SCNA1127102\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100584837\"}], \"atribuiri\": []}",
+  "_extra": "anulări: ['2025-05-27', '2025-06-19', '2025-07-08', '2025-07-29', '2025-10-28'] atribuiri: []"
+ },
+ {
+  "id": 1406,
+  "tip": "S9",
+  "scor": 2,
+  "entitate": "COMPANIA DE APA ORADEA S.A.",
+  "cui": "RO 54760",
+  "titlu": "3 anulări: BH CL 3 – EXTINDEREA ȘI REABILITAREA REȚELELOR DE ALIMENTARE CU APA SI CANALIZARE IN ORADEA – ZONA 2",
+  "valoare": 11850956.79,
+  "detalii": "{\"anulari\": [{\"data\": \"2023-09-24\", \"anunt\": \"CAN1112109\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100403787\"}, {\"data\": \"2024-01-09\", \"anunt\": \"CAN1118687\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100428810\"}, {\"data\": \"2024-09-19\", \"anunt\": \"CAN1133512\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100495192\"}], \"atribuiri\": [{\"data\": \"2026-04-07\", \"anunt\": \"CAN1143537\", \"valoare\": 11850956.79, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100621112\"}]}",
+  "_extra": "anulări: ['2023-09-24', '2024-01-09', '2024-09-19'] atribuiri: [('2026-04-07', 11.85)]"
+ }
+]

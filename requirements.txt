@@ -1,0 +1,5 @@
+# Dependențele pipeline-ului (citirea fișierelor de pe data.gov.ro). Serverul web nu are dependențe.
+openpyxl
+xlrd
+pandas
+odfpy

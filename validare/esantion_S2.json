@@ -1,0 +1,112 @@
+[
+ {
+  "id": 17,
+  "tip": "S2",
+  "scor": 3,
+  "entitate": "AVEURO INTERNATIONAL SRL",
+  "cui": "20944909",
+  "titlu": "Microbuz electric (școlar): 913,000 lei/buc la 8 autorități",
+  "valoare": 127820000.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"pret\": 913000.0, \"contracte\": [{\"autoritate\": \"JUDETUL MEHEDINTI\", \"data\": \"2024-03-13\", \"cantitate\": 31.0, \"anunt\": \"CAN1122639\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100614987\"}, {\"autoritate\": \"JUDETUL ILFOV - CONSILIUL JUDETEAN\", \"data\": \"2024-07-04\", \"cantitate\": 33.0, \"anunt\": \"CAN1129547\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100509624\"}, {\"autoritate\": \"JUDETUL GALATI\", \"data\": \"2024-10-10\", \"cantitate\": 29.0, \"anunt\": \"CAN1135349\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100601277\"}, {\"autoritate\": \"JUDETUL SATU MARE\", \"data\": \"2025-02-04\", \"cantitate\": 10.0, \"anunt\": \"CAN1141809\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100563370\"}, {\"autoritate\": \"JUDETUL BIHOR\", \"data\": \"2025-03-04\", \"cantitate\": 25.0, \"anunt\": \"CAN1143425\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100534303\"}, {\"autoritate\": \"JUDEȚUL SUCEAVA\", \"data\": \"2025-06-11\", \"cantitate\": 4.0, \"anunt\": \"CAN1149276\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100556300\"}, {\"autoritate\": \"JUDETUL TIMIS\", \"data\": \"2025-06-23\", \"cantitate\": 4.0, \"anunt\": \"CAN1149572\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100594033\"}, {\"autoritate\": \"JUDETUL TELEORMAN\", \"data\": \"2026-02-05\", \"cantitate\": 4.0, \"anunt\": \"CAN1162822\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100609629\"}]}",
+  "_extra": "{\"cluster\": \"microbuz_electric\", \"pret\": 913000.0} | JUDETUL MEHEDINTI 2024-03-13 ×31; JUDETUL ILFOV - CO 2024-07-04 ×33; JUDETUL GALATI 2024-10-10 ×29; JUDETUL SATU MARE 2025-02-04 ×10; JUDETUL BIHOR 2025-03-04 ×25; JUDEȚUL SUCEAVA 2025-06-11 ×4"
+ },
+ {
+  "id": 9,
+  "tip": "S2",
+  "scor": 3,
+  "entitate": "RENAULT COMMERCIAL ROUMANIE",
+  "cui": "13943110",
+  "titlu": "Autoturism: 100,700 lei/buc la 6 autorități",
+  "valoare": 8358100.0,
+  "detalii": "{\"cluster\": \"autoturism\", \"pret\": 100700.0, \"contracte\": [{\"autoritate\": \"AUTORITATEA NATIONALA PENTRU PROTECTIA CONSUMATORILOR\", \"data\": \"2024-08-06\", \"cantitate\": 10.0, \"anunt\": \"CAN1131706\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100487597\"}, {\"autoritate\": \"Comisariatul Regional pentru Protectia Consumatorilor Regiunea Nord-Est (Iasi)\", \"data\": \"2024-08-09\", \"cantitate\": 13.0, \"anunt\": \"CAN1131739\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100488427\"}, {\"autoritate\": \"Comisariatul Regional pentru Protectia Consumatorilor Sud-Vest Oltenia (Craiova)\", \"data\": \"2024-08-29\", \"cantitate\": 11.0, \"anunt\": \"CAN1132903\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100492826\"}, {\"autoritate\": \"Comisariatul Regional pentru Protectia Consumatorilor Regiunea Bucuresti-Ilfov\", \"data\": \"2024-08-29\", \"cantitate\": 21.0, \"anunt\": \"CAN1133214\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100493859\"}, {\"autoritate\": \"COMISARIATUL REGIONAL PENTRU PROTECTIA CONSUMATORILOR GALATI\", \"data\": \"2024-09-04\", \"cantitate\": 13.0, \"anunt\": \"CAN1133546\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100495366\"}, {\"autoritate\": \"COMISARIATUL REGIONAL PENTRU PROTECTIA CONSUMATORILOR- REGIUNEA SUD MUNTENIA PLOIESTI PRAHOVA\", \"data\": \"2024-09-17\", \"cantitate\": 15.0, \"anunt\": \"CAN1134361\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100498384\"}]}",
+  "_extra": "{\"cluster\": \"autoturism\", \"pret\": 100700.0} | AUTORITATEA NATION 2024-08-06 ×10; Comisariatul Regio 2024-08-09 ×13; Comisariatul Regio 2024-08-29 ×11; Comisariatul Regio 2024-08-29 ×21; COMISARIATUL REGIO 2024-09-04 ×13; COMISARIATUL REGIO 2024-09-17 ×15"
+ },
+ {
+  "id": 182,
+  "tip": "S2",
+  "scor": 3,
+  "entitate": "TERRA ROMANIA UTILAJE DE CONSTRUCTII S.R.L.",
+  "cui": "13813188",
+  "titlu": "464,880.00 lei la 16 autorități – Utilaje excavatoare (Rev.2)",
+  "valoare": 7438080.0,
+  "detalii": "{\"cpv\": \"43262000-7\", \"perioada\": [\"2025-10-03\", \"2026-08-17\"], \"autoritati\": [\"COMUNA BODESTI (PRIMARIA COMUNEI BODESTI)\", \"COMUNA GHERAESTI\", \"COMUNA TARGSORU VECHI\", \"COMUNA FUNDENI\", \"COMUNA BOCSIG\", \"COMUNA VLAD TEPES\", \"COMUNA ALBESTII DE ARGES (PRIMARIA COMUNEI ALBESTII DE ARGES)\", \"Unitatea Administrativ-Teritoriala  Movila Miresii\", \"Comuna Peciu Nou\", \"COMUNA SERCAIA\", \"COMUNA CRISTESTI\", \"COMUNA SANTIMBRU\"]}",
+  "_extra": "{\"cpv\": \"43262000-7\", \"perioada\": [\"2025-10-03\", \"2026-08-17\"], \"autoritati\": [\"COMUNA BODESTI (PRIMARIA COMUNEI BODESTI)\", \"COMUNA GHERAESTI\", \"COMUNA TARGSORU VECHI\", \"COMUNA FUNDENI\", \"COMUNA BOCSIG\", \"COMUNA VLAD TEPES\", \"COMU"
+ },
+ {
+  "id": 183,
+  "tip": "S2",
+  "scor": 3,
+  "entitate": "MINIAUTO PREMIER",
+  "cui": "32426110",
+  "titlu": "201,600.00 lei la 13 autorități – Vehicule electrice (Rev.2)",
+  "valoare": 2620800.0,
+  "detalii": "{\"cpv\": \"34144900-7\", \"perioada\": [\"2024-10-18\", \"2024-12-06\"], \"autoritati\": [\"Comuna Lapus (Consiliul local Lapus)\", \"Comuna Arinis (Primaria Comunei Arinis)\", \"COMUNA RECEA\", \"COMUNA OCNA SUGATAG -PRIMARIA\", \"Comuna Remetea Chioarului\", \"COMUNA BUDESTI\", \"ORASUL TARGU LAPUS\", \"Comuna Campulung la Tisa (Primaria Campulung la Tisa)\", \"Comuna Copalnic Manastur (Consiliul Local)\", \"ORASU NOU (CONSILIUL LOCAL ORASU NOU)\", \"ORASUL TASNAD\", \"COMUNA SOCOND (PRIMARIA COMUNEI SOCOND)\"]}",
+  "_extra": "{\"cpv\": \"34144900-7\", \"perioada\": [\"2024-10-18\", \"2024-12-06\"], \"autoritati\": [\"Comuna Lapus (Consiliul local Lapus)\", \"Comuna Arinis (Primaria Comunei Arinis)\", \"COMUNA RECEA\", \"COMUNA OCNA SUGATAG -PRIMARIA\", \"Comuna Remetea Chi"
+ },
+ {
+  "id": 184,
+  "tip": "S2",
+  "scor": 3,
+  "entitate": "VODAFONE ROMANIA",
+  "cui": "8971726",
+  "titlu": "347,950.00 lei la 7 autorități – Instalare de dispozitive de securitate (Rev.2)",
+  "valoare": 2435650.0,
+  "detalii": "{\"cpv\": \"45233292-2\", \"perioada\": [\"2025-08-19\", \"2026-04-01\"], \"autoritati\": [\"COMUNA GHINDAOANI\", \"Comuna Zanesti (Primaria)\", \"COMUNA CÎNDESTI\", \"COMUNA BRUSTURI\", \"COMUNA TIMISESTI\", \"COMUNA GALATII BISTRITEI\", \"COMUNA DORNA ARINI\"]}",
+  "_extra": "{\"cpv\": \"45233292-2\", \"perioada\": [\"2025-08-19\", \"2026-04-01\"], \"autoritati\": [\"COMUNA GHINDAOANI\", \"Comuna Zanesti (Primaria)\", \"COMUNA CÎNDESTI\", \"COMUNA BRUSTURI\", \"COMUNA TIMISESTI\", \"COMUNA GALATII BISTRITEI\", \"COMUNA DORNA A"
+ },
+ {
+  "id": 189,
+  "tip": "S2",
+  "scor": 2,
+  "entitate": "REALITIS S.R.L.",
+  "cui": "42797256",
+  "titlu": "443,043.00 lei la 3 autorități – Servicii de urbanism (Rev.2)",
+  "valoare": 1329129.0,
+  "detalii": "{\"cpv\": \"71410000-5\", \"perioada\": [\"2023-06-19\", \"2024-12-20\"], \"autoritati\": [\"COMUNA IBANESTI (CONSILIUL LOCAL)\", \"COMUNA BALUSENI (PRIMARIA COMUNEI BALUSENI)\", \"Comuna Scheia (Consiliul local Scheia)\"]}",
+  "_extra": "{\"cpv\": \"71410000-5\", \"perioada\": [\"2023-06-19\", \"2024-12-20\"], \"autoritati\": [\"COMUNA IBANESTI (CONSILIUL LOCAL)\", \"COMUNA BALUSENI (PRIMARIA COMUNEI BALUSENI)\", \"Comuna Scheia (Consiliul local Scheia)\"]}"
+ },
+ {
+  "id": 186,
+  "tip": "S2",
+  "scor": 2,
+  "entitate": "DMV AVIATECH SRL",
+  "cui": "27562973",
+  "titlu": "1,207,008.00 lei la 4 autorități – Microbuze (Rev.2)",
+  "valoare": 4828032.0,
+  "detalii": "{\"cpv\": \"34114400-3\", \"perioada\": [\"2023-12-12\", \"2024-02-15\"], \"autoritati\": [\"Comuna Nusfalau\", \"COMUNA HALMASD\", \"COMUNA CARASTELEC  (PRIMARIA CARASTELEC)\", \"COMUNA CAMAR\"]}",
+  "_extra": "{\"cpv\": \"34114400-3\", \"perioada\": [\"2023-12-12\", \"2024-02-15\"], \"autoritati\": [\"Comuna Nusfalau\", \"COMUNA HALMASD\", \"COMUNA CARASTELEC  (PRIMARIA CARASTELEC)\", \"COMUNA CAMAR\"]}"
+ },
+ {
+  "id": 188,
+  "tip": "S2",
+  "scor": 2,
+  "entitate": "FORUM BUSINESS S.R.L.",
+  "cui": "23600357",
+  "titlu": "590,268.00 lei la 3 autorități – Echipament si accesorii pentru computer (Rev.2)",
+  "valoare": 1770804.0,
+  "detalii": "{\"cpv\": \"30200000-1\", \"perioada\": [\"2025-07-29\", \"2025-07-30\"], \"autoritati\": [\"LICEUL DE TRANSPORTURI  AUTO \\\"TRAIAN VUIA\\\"\", \"LICEUL TEORETIC \\\"EMIL RACOVITA\\\" GALATI\", \"COLEGIUL NATIONAL MIHAIL KOGALNICEANU\"]}",
+  "_extra": "{\"cpv\": \"30200000-1\", \"perioada\": [\"2025-07-29\", \"2025-07-30\"], \"autoritati\": [\"LICEUL DE TRANSPORTURI  AUTO \\\"TRAIAN VUIA\\\"\", \"LICEUL TEORETIC \\\"EMIL RACOVITA\\\" GALATI\", \"COLEGIUL NATIONAL MIHAIL KOGALNICEANU\"]}"
+ },
+ {
+  "id": 192,
+  "tip": "S2",
+  "scor": 2,
+  "entitate": "CASA AUTO VALEA LUPULUI",
+  "cui": "5243094",
+  "titlu": "300,732.00 lei la 3 autorități – Vehicule electrice (Rev.2)",
+  "valoare": 902196.0,
+  "detalii": "{\"cpv\": \"34144900-7\", \"perioada\": [\"2024-09-26\", \"2024-10-25\"], \"autoritati\": [\"SC Miroslava Industrial Parc SRL\", \"COMUNA TUTOVA\", \"COMUNA  GROPNITA (CONSILIUL LOCAL GROPNITA IASI)\"]}",
+  "_extra": "{\"cpv\": \"34144900-7\", \"perioada\": [\"2024-09-26\", \"2024-10-25\"], \"autoritati\": [\"SC Miroslava Industrial Parc SRL\", \"COMUNA TUTOVA\", \"COMUNA  GROPNITA (CONSILIUL LOCAL GROPNITA IASI)\"]}"
+ },
+ {
+  "id": 16,
+  "tip": "S2",
+  "scor": 2,
+  "entitate": "AVEURO INTERNATIONAL SRL",
+  "cui": "20944909",
+  "titlu": "Microbuz electric (școlar): 1,013,013 lei/buc la 3 autorități",
+  "valoare": 63819819.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"pret\": 1013013.0, \"contracte\": [{\"autoritate\": \"JUDEȚUL SUCEAVA\", \"data\": \"2024-04-04\", \"cantitate\": 26.0, \"anunt\": \"CAN1125054\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100509796\"}, {\"autoritate\": \"JUDETUL MARAMURES (CONSILIUL JUDETEAN MARAMURES)\", \"data\": \"2024-06-26\", \"cantitate\": 31.0, \"anunt\": \"CAN1129602\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100479109\"}, {\"autoritate\": \"JUDETUL VASLUI\", \"data\": \"2025-06-25\", \"cantitate\": 6.0, \"anunt\": \"CAN1150046\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100594751\"}]}",
+  "_extra": "{\"cluster\": \"microbuz_electric\", \"pret\": 1013013.0} | JUDEȚUL SUCEAVA 2024-04-04 ×26; JUDETUL MARAMURES  2024-06-26 ×31; JUDETUL VASLUI 2025-06-25 ×6"
+ }
+]

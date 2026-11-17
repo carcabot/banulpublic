@@ -1,0 +1,112 @@
+[
+ {
+  "id": 800,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Inspectoratul General pentru Situatii de Urgenta",
+  "cui": "4203997",
+  "titlu": "8 atribuiri fără anunț către DELTAMED (1,474.8 mil. lei)",
+  "valoare": 1474825275.0,
+  "detalii": "{\"furnizor\": \"DELTAMED\", \"cui_furnizor\": \"9434372\", \"perioada\": [\"2026-05-29\", \"2026-05-29\"], \"obiecte\": \"Containere mobile cu utilizare speciala (Rev.2),Ambulante (Rev.2),Vehicule pentru transportul pacientilor (Rev.2),Locomotive si materiale rulante feroviare si piese (Rev.2)\"}",
+  "_extra": "['2026-05-29', '2026-05-29'] | Containere mobile cu utilizare speciala (Rev.2),Ambulante (Rev.2),Vehicule pentru transportul pacientilor (Rev.2),Locomotive si materiale rulante fero"
+ },
+ {
+  "id": 801,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Societatea Nationala NUCLEARELECTRICA S.A.",
+  "cui": "10874881",
+  "titlu": "9 atribuiri fără anunț către Candu Energy Inc. (450.1 mil. lei)",
+  "valoare": 450100559.95,
+  "detalii": "{\"furnizor\": \"Candu Energy Inc.\", \"cui_furnizor\": \"7895097\", \"perioada\": [\"2024-01-10\", \"2026-08-04\"], \"obiecte\": \"Piese pentru masini sau pentru motoare hidraulice (Rev.2),Diverse piese de schimb (Rev.2),Servicii de testare tehnica (Rev.2),Servicii de software (Rev.2),Piese de reactoare nucleare (Rev.2),Mecanisme electrice de actionare a supapelor (Rev.2),Servicii de analiza sau consultanta tehnica (Rev.2)\"}",
+  "_extra": "['2024-01-10', '2026-08-04'] | Piese pentru masini sau pentru motoare hidraulice (Rev.2),Diverse piese de schimb (Rev.2),Servicii de testare tehnica (Rev.2),Servicii de software (Re"
+ },
+ {
+  "id": 804,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Spitalul Clinic Colentina",
+  "cui": "",
+  "titlu": "15 atribuiri fără anunț către \"ADRIAN SPIRESCU SI MIHAELA PELTEACU\" S.C.P.A. (176.2 mil. lei)",
+  "valoare": 176211946.24,
+  "detalii": "{\"furnizor\": \"\\\"ADRIAN SPIRESCU SI MIHAELA PELTEACU\\\" S.C.P.A.\", \"cui_furnizor\": \"28697278\", \"perioada\": [\"2023-01-26\", \"2023-10-02\"], \"obiecte\": \"Diverse medicamente (Rev.2),Produse farmaceutice (Rev.2),Reactivi pentru analize de sange (Rev.2),Consumabile medicale (Rev.2),Servicii de colectare a deseurilor urbane solide (Rev.2),Servicii de asistenta tehnica informatica (Rev.2),Servicii de reparare si de intretinere si servicii conexe pentru c\"}",
+  "_extra": "['2023-01-26', '2023-10-02'] | Diverse medicamente (Rev.2),Produse farmaceutice (Rev.2),Reactivi pentru analize de sange (Rev.2),Consumabile medicale (Rev.2),Servicii de colectare a"
+ },
+ {
+  "id": 806,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Asociatia de Dezvoltare Intercomunitara ,,Sistemul Integrat de Gestionare a Deseurilor Judetul Hunedoara''",
+  "cui": "26533287",
+  "titlu": "12 atribuiri fără anunț către SUPERCOM S.A. (159.0 mil. lei)",
+  "valoare": 158990380.04,
+  "detalii": "{\"furnizor\": \"SUPERCOM S.A.\", \"cui_furnizor\": \"3884955\", \"perioada\": [\"2024-02-02\", \"2026-06-10\"], \"obiecte\": \"Servicii de colectare a deseurilor menajere (Rev.2)\"}",
+  "_extra": "['2024-02-02', '2026-06-10'] | Servicii de colectare a deseurilor menajere (Rev.2)"
+ },
+ {
+  "id": 809,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Ministerul Apararii Nationale - Unitatea Militara 01020",
+  "cui": "4349187",
+  "titlu": "8 atribuiri fără anunț către NISARA IMPEX (140.7 mil. lei)",
+  "valoare": 140739540.64000002,
+  "detalii": "{\"furnizor\": \"NISARA IMPEX\", \"cui_furnizor\": \"8566375\", \"perioada\": [\"2026-05-06\", \"2026-05-06\"], \"obiecte\": \"Alimente, bauturi, tutun si produse conexe (Rev.2)\"}",
+  "_extra": "['2026-05-06', '2026-05-06'] | Alimente, bauturi, tutun si produse conexe (Rev.2)"
+ },
+ {
+  "id": 1112,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Spitalul Clinic Municipal de Urgenta Moinesti",
+  "cui": "4278710",
+  "titlu": "10 atribuiri fără anunț către MERCK ROMANIA S.R.L. (1.5 mil. lei)",
+  "valoare": 1541874.64,
+  "detalii": "{\"furnizor\": \"MERCK ROMANIA S.R.L.\", \"cui_furnizor\": \"20631065\", \"perioada\": [\"2025-01-23\", \"2026-07-08\"], \"obiecte\": \"Produse farmaceutice (Rev.2),Medicamente pentru sistemul nervos (Rev.2),Antineoplazice (Rev.2),Diverse medicamente (Rev.2),Antineoplazice si imunomodulatoare (Rev.2)\"}",
+  "_extra": "['2025-01-23', '2026-07-08'] | Produse farmaceutice (Rev.2),Medicamente pentru sistemul nervos (Rev.2),Antineoplazice (Rev.2),Diverse medicamente (Rev.2),Antineoplazice si imunomodu"
+ },
+ {
+  "id": 945,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "DELGAZ GRID S.A.",
+  "cui": "",
+  "titlu": "20 atribuiri fără anunț către ROGOTEHNIC (5.1 mil. lei)",
+  "valoare": 5094144.1,
+  "detalii": "{\"furnizor\": \"ROGOTEHNIC\", \"cui_furnizor\": \"37659257\", \"perioada\": [\"2023-09-13\", \"2023-11-06\"], \"obiecte\": \"Studiu de fezabilitate (Rev.2)\"}",
+  "_extra": "['2023-09-13', '2023-11-06'] | Studiu de fezabilitate (Rev.2)"
+ },
+ {
+  "id": 1191,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "Spitalul Clinic Colentina",
+  "cui": "4283929",
+  "titlu": "12 atribuiri fără anunț către MEDIPLUS EXIM (1.2 mil. lei)",
+  "valoare": 1183533.12,
+  "detalii": "{\"furnizor\": \"MEDIPLUS EXIM\", \"cui_furnizor\": \"9311280\", \"perioada\": [\"2023-11-03\", \"2024-12-06\"], \"obiecte\": \"Produse farmaceutice (Rev.2)\"}",
+  "_extra": "['2023-11-03', '2024-12-06'] | Produse farmaceutice (Rev.2)"
+ },
+ {
+  "id": 1078,
+  "tip": "S8",
+  "scor": 2,
+  "entitate": "SC COMPANIA REGIONALA DE APA BACAU SA",
+  "cui": "27429315",
+  "titlu": "5 atribuiri fără anunț către ECO SISTEM PROIECT S.R.L. (1.8 mil. lei)",
+  "valoare": 1835000.0,
+  "detalii": "{\"furnizor\": \"ECO SISTEM PROIECT S.R.L.\", \"cui_furnizor\": \"9567115\", \"perioada\": [\"2024-12-23\", \"2025-12-18\"], \"obiecte\": \"Agenti de floculare (Rev.2)\"}",
+  "_extra": "['2024-12-23', '2025-12-18'] | Agenti de floculare (Rev.2)"
+ },
+ {
+  "id": 857,
+  "tip": "S8",
+  "scor": 3,
+  "entitate": "UM 0929 Bucuresti",
+  "cui": "",
+  "titlu": "39 atribuiri fără anunț către Romastru Trading (14.9 mil. lei)",
+  "valoare": 14925099.9,
+  "detalii": "{\"furnizor\": \"Romastru Trading\", \"cui_furnizor\": \"6769462\", \"perioada\": [\"2023-04-05\", \"2023-11-23\"], \"obiecte\": \"Antiinfectioase generale pentru uz sistemic (Rev.2),Diverse medicamente (Rev.2),Antiinfectioase generale pentru uz sistemic, vaccinuri, antineoplazice si imunomodulatoare (Rev.2),Antivirale pentru uz sistemic (Rev.2),Substituenti de plasma sanguina si solutii pentru perfuzii (Rev.2),Produse farmaceu\"}",
+  "_extra": "['2023-04-05', '2023-11-23'] | Antiinfectioase generale pentru uz sistemic (Rev.2),Diverse medicamente (Rev.2),Antiinfectioase generale pentru uz sistemic, vaccinuri, antineoplazice"
+ }
+]

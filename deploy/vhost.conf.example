@@ -1,0 +1,23 @@
+# Model de vhost Apache. Copiază-l în /etc/httpd/conf.d/<domeniu>.conf și înlocuiește exemplu.ro cu domeniul tău.
+# Banul public. Containerul `integritate` ascultă pe 127.0.0.1:3210.
+# TLS se termină la Cloudflare, care vorbește cu serverul pe portul 80. Nu există certificat pe server și nici bloc pentru 443.
+<VirtualHost *:80>
+    ServerName exemplu.ro
+
+    # Vizitatorul venit pe http prin Cloudflare este trimis pe https. Cloudflare spune în X-Forwarded-Proto pe ce a venit.
+    RewriteEngine on
+    RewriteCond %{HTTP:X-Forwarded-Proto} =http
+    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [END,NE,R=permanent]
+
+    # Aplicația ia adresa clientului din ultima valoare din X-Forwarded-For, pe care o scrie Apache.
+    # Antetul CF-Connecting-IP venit de la un client nu trebuie să ajungă la ea: l-ar putea scrie oricine ca să ocolească limita MCP.
+    RequestHeader unset CF-Connecting-IP
+
+    ProxyPreserveHost On
+    ProxyRequests Off
+    ProxyPass        / http://127.0.0.1:3210/
+    ProxyPassReverse / http://127.0.0.1:3210/
+
+    ErrorLog  /var/log/httpd/integritate-error.log
+    CustomLog /var/log/httpd/integritate-access.log combined
+</VirtualHost>

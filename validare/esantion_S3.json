@@ -1,0 +1,112 @@
+[
+ {
+  "id": 193,
+  "tip": "S3",
+  "scor": 3,
+  "entitate": "S.C. DELTAMED S.R.L.",
+  "cui": "9434372",
+  "titlu": "99% din piața „Ambulante (Rev.2)” (2,792.1 mil. lei, 17 autorități)",
+  "valoare": 2792056059.0,
+  "detalii": "{\"cpv\": \"34114121\", \"contracte\": 36, \"total_piata\": 2823405569.0, \"furnizori_in_piata\": 9}",
+  "_extra": "top3 contracte: [(492.3, 'Inspectoratul General ', 'Licitatie deschisa'), (333.1, 'Inspectoratul General ', 'Licitatie deschisa'), (192.4, 'Inspectoratul General ', 'Licitatie deschisa')] | n=36 furnizori=9"
+ },
+ {
+  "id": 199,
+  "tip": "S3",
+  "scor": 3,
+  "entitate": "COMEX ROM S.R.L.",
+  "cui": "27820",
+  "titlu": "89% din piața „Repararea si intretinerea toaletelor publice (Rev.2)” (66.8 mil. lei, 8 autorități)",
+  "valoare": 66751889.0,
+  "detalii": "{\"cpv\": \"50760000\", \"contracte\": 59, \"total_piata\": 75394989.0, \"furnizori_in_piata\": 11}",
+  "_extra": "top3 contracte: [(15.8, 'MUNICIPIUL BUCURESTI', 'Licitatie deschisa'), (12.1, 'ADMINISTRATIA DOMENIUL', 'Licitatie deschisa'), (6.0, 'ADMINISTRATIA DOMENIUL', 'Licitatie deschisa')] | n=59 furnizori=11"
+ },
+ {
+  "id": 202,
+  "tip": "S3",
+  "scor": 3,
+  "entitate": "Agricover Distribution SA",
+  "cui": "13443360",
+  "titlu": "92% din piața „Pesticide (Rev.2)” (42.7 mil. lei, 12 autorități)",
+  "valoare": 42746660.0,
+  "detalii": "{\"cpv\": \"24451000\", \"contracte\": 35, \"total_piata\": 46328478.0, \"furnizori_in_piata\": 8}",
+  "_extra": "top3 contracte: [(4.5, 'UNIVERSITATEA CRAIOVA', 'Licitatie deschisa'), (4.5, 'UNIVERSITATEA CRAIOVA', 'Licitatie deschisa'), (4.5, 'UNIVERSITATEA CRAIOVA', 'Licitatie deschisa')] | n=35 furnizori=8"
+ },
+ {
+  "id": 194,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "MEDTRONIC ROMANIA SRL",
+  "cui": "35182347",
+  "titlu": "62% din piața „Sistem de monitorizare a pacientilor (Rev.2)” (195.3 mil. lei, 12 autorități)",
+  "valoare": 195311823.0,
+  "detalii": "{\"cpv\": \"33195000\", \"contracte\": 266, \"total_piata\": 314069131.0, \"furnizori_in_piata\": 22}",
+  "_extra": "top3 contracte: [(22.8, 'Spitalul Clinic de Urg', 'Licitatie deschisa'), (22.7, 'Spitalul Clinic de Urg', 'Licitatie deschisa'), (17.3, 'Spitalul Clinic de Urg', 'Licitatie deschisa')] | n=266 furnizori=22"
+ },
+ {
+  "id": 195,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "S.C. LINDE GAZ ROMANIA S.R.L. S.R.L.",
+  "cui": "8721959",
+  "titlu": "66% din piața „Oxigen (Rev.2)” (151.2 mil. lei, 39 autorități)",
+  "valoare": 151241184.0,
+  "detalii": "{\"cpv\": \"24111900\", \"contracte\": 214, \"total_piata\": 229475078.0, \"furnizori_in_piata\": 8}",
+  "_extra": "top3 contracte: [(14.7, 'Spital Clinic Judetean', 'Licitatie deschisa'), (10.3, 'SPITALUL CLINIC DE URG', 'Licitatie deschisa'), (8.8, 'Spitalul Clinic Munici', 'Licitatie deschisa')] | n=214 furnizori=8"
+ },
+ {
+  "id": 198,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "VODAFONE ROMANIA",
+  "cui": "8971726",
+  "titlu": "72% din piața „Instalare de dispozitive de securitate (Rev.2)” (70.3 mil. lei, 46 autorități)",
+  "valoare": 70270190.0,
+  "detalii": "{\"cpv\": \"45233292\", \"contracte\": 76, \"total_piata\": 98033892.0, \"furnizori_in_piata\": 26}",
+  "_extra": "top3 contracte: [(2.8, 'ORASUL FLAMANZI', 'Procedura simplificata'), (2.2, 'Orasul Balan (Primaria', 'Procedura simplificata'), (2.0, 'Orasul Tg.Ocna (Consil', 'Procedura simplificata')] | n=76 furnizori=26"
+ },
+ {
+  "id": 197,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "MEDIST IMAGING & P.O.C. S.R.L.",
+  "cui": "24205100",
+  "titlu": "63% din piața „Ecograf (Rev.2)” (76.7 mil. lei, 23 autorități)",
+  "valoare": 76672728.0,
+  "detalii": "{\"cpv\": \"33112200\", \"contracte\": 38, \"total_piata\": 122012197.0, \"furnizori_in_piata\": 44}",
+  "_extra": "top3 contracte: [(26.0, 'Spitalul Universitar d', 'Licitatie deschisa'), (12.1, 'Spitalul Universitar d', 'Licitatie deschisa'), (5.2, 'Spitalul Clinic \"Prof.', 'Licitatie deschisa')] | n=38 furnizori=44"
+ },
+ {
+  "id": 200,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "CHROME COMPUTERS",
+  "cui": "6639497",
+  "titlu": "61% din piața „Monitoare cu ecran tactil (Rev.2)” (61.0 mil. lei, 9 autorități)",
+  "valoare": 60967939.0,
+  "detalii": "{\"cpv\": \"30231320\", \"contracte\": 10, \"total_piata\": 100342075.0, \"furnizori_in_piata\": 38}",
+  "_extra": "top3 contracte: [(27.8, 'SECTOR 4 (PRIMARIA SEC', 'Licitatie deschisa'), (27.7, 'SECTOR 4 (PRIMARIA SEC', 'Licitatie deschisa'), (1.5, 'UNIVERSITATEA PETROL S', 'Licitatie deschisa')] | n=10 furnizori=38"
+ },
+ {
+  "id": 203,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "SWARCO VICAS",
+  "cui": "916670",
+  "titlu": "64% din piața „Vopsea pentru marcaj rutier (Rev.2)” (23.7 mil. lei, 12 autorități)",
+  "valoare": 23730085.0,
+  "detalii": "{\"cpv\": \"44811000\", \"contracte\": 34, \"total_piata\": 37124106.0, \"furnizori_in_piata\": 5}",
+  "_extra": "top3 contracte: [(3.4, 'Regia Autonoma a Domen', 'Licitatie deschisa'), (3.1, 'DOMENIUL PUBLIC NAPOCA', 'Licitatie deschisa'), (2.7, 'SC DRUMURI MUNICIPALE ', 'Licitatie deschisa')] | n=34 furnizori=5"
+ },
+ {
+  "id": 196,
+  "tip": "S3",
+  "scor": 2,
+  "entitate": "MEDTRONIC ROMANIA SRL",
+  "cui": "35182347",
+  "titlu": "65% din piața „Stimulator cardiac (Rev.2)” (87.7 mil. lei, 8 autorități)",
+  "valoare": 87700828.66666667,
+  "detalii": "{\"cpv\": \"33182210\", \"contracte\": 177, \"total_piata\": 135592128.0, \"furnizori_in_piata\": 19}",
+  "_extra": "top3 contracte: [(40.2, 'Spitalul Universitar d', 'Licitatie deschisa'), (8.7, 'SPITALUL JUDETEAN DE U', 'Licitatie deschisa'), (8.1, 'SPITALUL JUDETEAN DE U', 'Licitatie deschisa')] | n=177 furnizori=19"
+ }
+]

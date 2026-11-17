@@ -1,0 +1,35 @@
+[
+ {
+  "id": 8,
+  "tip": "S12",
+  "scor": 2,
+  "entitate": "AVEURO INTERNATIONAL SRL",
+  "cui": "20944909",
+  "titlu": "Microbuz electric (școlar) 16+1 locuri: între 504,000 și 1,313,000 lei/buc (28 contracte)",
+  "valoare": 526786648.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"minim\": {\"autoritate\": \"JUDETUL VALCEA\", \"data\": \"2025-09-08\", \"pret\": 504000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100578313\"}, \"maxim\": {\"autoritate\": \"CONSILIUL JUDETEAN OLT\", \"data\": \"2024-06-13\", \"pret\": 1313000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100480344\"}}",
+  "_extra": "min: JUDETUL VALCEA 2025-09-08 | max: CONSILIUL JUDETEAN OLT 2024-06-13"
+ },
+ {
+  "id": 3,
+  "tip": "S12",
+  "scor": 2,
+  "entitate": "AVEURO INTERNATIONAL SRL",
+  "cui": "20944909",
+  "titlu": "Microbuz electric (școlar): între 493,000 și 1,230,000 lei/buc (8 contracte)",
+  "valoare": 112210038.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"minim\": {\"autoritate\": \"JUDETUL CLUJ (CONSILIUL JUDETEAN)\", \"data\": \"2025-09-25\", \"pret\": 493000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100613672\"}, \"maxim\": {\"autoritate\": \"COMUNA DUMBRAVESTI\", \"data\": \"2024-06-20\", \"pret\": 1230000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100476247\"}}",
+  "_extra": "min: JUDETUL CLUJ (CONSILIUL JU 2025-09-25 | max: COMUNA DUMBRAVESTI 2024-06-20"
+ },
+ {
+  "id": 4,
+  "tip": "S12",
+  "scor": 2,
+  "entitate": "C & I EUROTRANS XXI",
+  "cui": "15081488",
+  "titlu": "Microbuz electric (școlar): între 600,000 și 1,175,000 lei/buc (6 contracte)",
+  "valoare": 63861000.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"minim\": {\"autoritate\": \"JUDETUL CLUJ (CONSILIUL JUDETEAN)\", \"data\": \"2025-08-21\", \"pret\": 600000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100613530\"}, \"maxim\": {\"autoritate\": \"Consiliul Judetean Calarasi\", \"data\": \"2025-04-16\", \"pret\": 1175000.0, \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100543093\"}}",
+  "_extra": "min: JUDETUL CLUJ (CONSILIUL JU 2025-08-21 | max: Consiliul Judetean Calaras 2025-04-16"
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "id": 1763,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "BUSINESS RESOURCES (alături de D&R SMART RESOURCES SRL)",
+  "cui": "46013890",
+  "titlu": "17 contracte la 2 autorități (343.6 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 343596613.0,
+  "detalii": "{\"cui\": [\"46013890\", \"38199955\"], \"partener_principal\": \"D&R SMART RESOURCES SRL\"}",
+  "_extra": "46013890: solo=0 asociat=17 parteneri_distincti=1 | 38199955: solo=7 asociat=17 parteneri_distincti=1"
+ },
+ {
+  "id": 1764,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "BIO - ND IMPEX SRL (alături de BEST ACHIZITII)",
+  "cui": "27246067",
+  "titlu": "11 contracte la 2 autorități (292.9 mil. lei), toate în asociere; 2 parteneri în total, niciun contract propriu",
+  "valoare": 292870664.0,
+  "detalii": "{\"cui\": [\"27246067\", \"32125703\"], \"partener_principal\": \"BEST ACHIZITII\"}",
+  "_extra": "27246067: solo=0 asociat=12 parteneri_distincti=3 | 32125703: solo=49 asociat=76 parteneri_distincti=131"
+ },
+ {
+  "id": 1765,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "DUMAVA SEMNALIZARE (alături de GAMIDA EUROMARK SRL)",
+  "cui": "21391386",
+  "titlu": "17 contracte la 1 autorități (279.1 mil. lei), toate în asociere; 2 parteneri în total, niciun contract propriu",
+  "valoare": 279084602.0,
+  "detalii": "{\"cui\": [\"21391386\", \"13980054\"], \"partener_principal\": \"GAMIDA EUROMARK SRL\"}",
+  "_extra": "21391386: solo=0 asociat=26 parteneri_distincti=3 | 13980054: solo=4 asociat=23 parteneri_distincti=2"
+ },
+ {
+  "id": 1767,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "SC EDIL CONTRACT SRL (alături de LOIAL IMPEX)",
+  "cui": "15746395",
+  "titlu": "29 contracte la 1 autorități (238.1 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 238084617.0,
+  "detalii": "{\"cui\": [\"15746395\", \"3176126\"], \"partener_principal\": \"LOIAL IMPEX\"}",
+  "_extra": "15746395: solo=0 asociat=29 parteneri_distincti=1 | 3176126: solo=228 asociat=68 parteneri_distincti=18"
+ },
+ {
+  "id": 1768,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "QEV TECHNOLOGIES (alături de AMPERIO ENERGY)",
+  "cui": "98585714",
+  "titlu": "12 contracte la 9 autorități (201.3 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 201294624.0,
+  "detalii": "{\"cui\": [\"98585714\", \"36956870\"], \"partener_principal\": \"AMPERIO ENERGY\"}",
+  "_extra": "98585714: solo=0 asociat=12 parteneri_distincti=1 | 36956870: solo=1 asociat=13 parteneri_distincti=2"
+ },
+ {
+  "id": 1831,
+  "tip": "S10",
+  "scor": 2,
+  "entitate": "Ecoedil Management (alături de CLIMA THERM CENTER S.R.L.)",
+  "cui": "27328906",
+  "titlu": "4 contracte la 1 autorități (17.7 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 17735077.0,
+  "detalii": "{\"cui\": [\"27328906\", \"13572870\"], \"partener_principal\": \"CLIMA THERM CENTER S.R.L.\"}",
+  "_extra": "27328906: solo=0 asociat=7 parteneri_distincti=3 | 13572870: solo=13 asociat=9 parteneri_distincti=14"
+ },
+ {
+  "id": 1884,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "HYDRO-JET CM SRL (alături de ORIENT BANAT)",
+  "cui": "31169396",
+  "titlu": "16 contracte la 1 autorități (5.1 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 5117515.0,
+  "detalii": "{\"cui\": [\"31169396\", \"36253268\"], \"partener_principal\": \"ORIENT BANAT\"}",
+  "_extra": "31169396: solo=0 asociat=16 parteneri_distincti=1 | 36253268: solo=6 asociat=20 parteneri_distincti=2"
+ },
+ {
+  "id": 1856,
+  "tip": "S10",
+  "scor": 2,
+  "entitate": "BALCOS TURISM (alături de Croialy Construct)",
+  "cui": "25666951",
+  "titlu": "4 contracte la 1 autorități (10.3 mil. lei), toate în asociere; 1 parteneri în total, niciun contract propriu",
+  "valoare": 10300600.0,
+  "detalii": "{\"cui\": [\"25666951\", \"21758084\"], \"partener_principal\": \"Croialy Construct\"}",
+  "_extra": "25666951: solo=0 asociat=8 parteneri_distincti=7 | 21758084: solo=5 asociat=8 parteneri_distincti=6"
+ },
+ {
+  "id": 1795,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "TRANSMONTANA SA (alături de OBADA TRANS)",
+  "cui": "2545187",
+  "titlu": "8 contracte la 2 autorități (38.9 mil. lei), toate în asociere; 2 parteneri în total, niciun contract propriu",
+  "valoare": 38903217.0,
+  "detalii": "{\"cui\": [\"2545187\", \"11153328\"], \"partener_principal\": \"OBADA TRANS\"}",
+  "_extra": "2545187: solo=0 asociat=18 parteneri_distincti=12 | 11153328: solo=4 asociat=18 parteneri_distincti=12"
+ },
+ {
+  "id": 1804,
+  "tip": "S10",
+  "scor": 3,
+  "entitate": "Garzon Novum KFT (alături de ARHITECTURA & MOBILI)",
+  "cui": "HU23769429",
+  "titlu": "13 contracte la 6 autorități (35.4 mil. lei), toate în asociere; 2 parteneri în total, niciun contract propriu",
+  "valoare": 35358240.0,
+  "detalii": "{\"cui\": [\"HU23769429\", \"24632136\"], \"partener_principal\": \"ARHITECTURA & MOBILI\"}",
+  "_extra": "HU23769429: solo=0 asociat=13 parteneri_distincti=2 | 24632136: solo=0 asociat=14 parteneri_distincti=2"
+ }
+]

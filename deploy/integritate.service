@@ -1,0 +1,40 @@
+# Model de unitate systemd: /etc/systemd/system/integritate.service
+# Serverul web rulează într-un container podman. Ascultă doar pe bucla locală; un proxy (Apache, Caddy, nginx) îl scoate la lume.
+[Unit]
+Description=Banul public, server web și MCP (container podman)
+Wants=network-online.target
+After=network-online.target
+RequiresMountsFor=%t/containers
+
+[Service]
+Environment=PODMAN_SYSTEMD_UNIT=%n
+Restart=always
+RestartSec=5
+TimeoutStopSec=30
+# Containerul nu poate scrie nicăieri în afară de /tmp, nu are capabilități și vede datele doar pentru citire.
+# Se montează directorul, nu fișierul, ca un site.db nou (alt inode după rsync) să fie văzut la repornire.
+ExecStart=/usr/bin/podman run \
+	--cidfile=%t/%n.ctr-id \
+	--cgroups=no-conmon \
+	--rm \
+	--sdnotify=conmon \
+	--replace \
+	-d \
+	--name integritate \
+	--publish 127.0.0.1:3210:3210 \
+	--env-file /etc/integritate.env \
+	--env TZ=Europe/Bucharest \
+	--volume /opt/integritate/data:/app/data:ro,Z \
+	--read-only \
+	--tmpfs /tmp \
+	--cap-drop=ALL \
+	--security-opt=no-new-privileges \
+	--memory=1g \
+	localhost/integritate:latest
+ExecStop=/usr/bin/podman stop --ignore -t 10 --cidfile=%t/%n.ctr-id
+ExecStopPost=/usr/bin/podman rm -f --ignore -t 10 --cidfile=%t/%n.ctr-id
+Type=notify
+NotifyAccess=all
+
+[Install]
+WantedBy=multi-user.target

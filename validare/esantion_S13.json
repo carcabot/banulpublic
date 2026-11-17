@@ -1,0 +1,112 @@
+[
+ {
+  "id": 180,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "MUNICIPIUL BUCURESTI",
+  "cui": "4267117",
+  "titlu": "217,303,683 lei = 99.80% din estimare (Tramvai)",
+  "valoare": 217303683.01,
+  "detalii": "{\"furnizor\": \"TANCRAD + CONSTRUCTII ERBASU\", \"data\": \"2023-10-18\", \"estimat\": 217728452.45, \"anunt\": \"CAN1114619\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100667640\"}",
+  "_extra": "{\"furnizor\": \"TANCRAD + CONSTRUCTII ERBASU\", \"data\": \"2023-10-18\", \"estimat\": 217728452.45, \"anunt\": \"CAN1114619\"}"
+ },
+ {
+  "id": 117,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "Ministerul Apararii Nationale - Unitatea Militara 01836",
+  "cui": "27036839",
+  "titlu": "115,797,276 lei = 100.00% din estimare (Autospecială de stingere)",
+  "valoare": 115797276.0,
+  "detalii": "{\"furnizor\": \"SC MOUNTAIN INDUSTRIAL RESOURCES SRL\", \"data\": \"2023-12-19\", \"estimat\": 115797276.0, \"anunt\": \"CAN1120066\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100613511\"}",
+  "_extra": "{\"furnizor\": \"SC MOUNTAIN INDUSTRIAL RESOURCES SRL\", \"data\": \"2023-12-19\", \"estimat\": 115797276.0, \"anunt\": \"CAN1120066\"}"
+ },
+ {
+  "id": 145,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "Municipiul Sfantu Gheorghe",
+  "cui": "4404605",
+  "titlu": "57,499,993 lei = 100.00% din estimare (Autobuz electric)",
+  "valoare": 57499993.0,
+  "detalii": "{\"furnizor\": \"SOLARIS BUS & COACH sp. z. o. o\", \"data\": \"2026-07-15\", \"estimat\": 57500000.0, \"anunt\": \"CAN1171493\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100642717\"}",
+  "_extra": "{\"furnizor\": \"SOLARIS BUS & COACH sp. z. o. o\", \"data\": \"2026-07-15\", \"estimat\": 57500000.0, \"anunt\": \"CAN1171493\"}"
+ },
+ {
+  "id": 175,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "Municipiul Bistrita",
+  "cui": "4347569",
+  "titlu": "48,253,257 lei = 99.82% din estimare (Autobuz electric)",
+  "valoare": 48253257.2,
+  "detalii": "{\"furnizor\": \"KARSAN OTOMOTIV SANAYI VE TICARET A.S\", \"data\": \"2025-05-05\", \"estimat\": 48340900.0, \"anunt\": \"CAN1146893\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100660755\"}",
+  "_extra": "{\"furnizor\": \"KARSAN OTOMOTIV SANAYI VE TICARET A.S\", \"data\": \"2025-05-05\", \"estimat\": 48340900.0, \"anunt\": \"CAN1146893\"}"
+ },
+ {
+  "id": 136,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "PRIMARIA MUNICIPIULUI ZALAU",
+  "cui": "4291786",
+  "titlu": "47,842,500 lei = 99.99% din estimare (Autobuz electric)",
+  "valoare": 47842500.0,
+  "detalii": "{\"furnizor\": \"SOR Libchavy spol. s r.o.\", \"data\": \"2024-08-13\", \"estimat\": 47848644.0, \"anunt\": \"CAN1131663\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100633974\"}",
+  "_extra": "{\"furnizor\": \"SOR Libchavy spol. s r.o.\", \"data\": \"2024-08-13\", \"estimat\": 47848644.0, \"anunt\": \"CAN1131663\"}"
+ },
+ {
+  "id": 119,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "ORASUL SINGEORZ-BAI",
+  "cui": "4347321",
+  "titlu": "2,590,000 lei = 99.89% din estimare (Microbuz electric (școlar))",
+  "valoare": 2590000.0,
+  "detalii": "{\"furnizor\": \"ANADOLU AUTOMOBIL ROM S.R.L.\", \"data\": \"2023-04-18\", \"estimat\": 2592866.0, \"anunt\": \"CAN1101711\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100614143\"}",
+  "_extra": "{\"furnizor\": \"ANADOLU AUTOMOBIL ROM S.R.L.\", \"data\": \"2023-04-18\", \"estimat\": 2592866.0, \"anunt\": \"CAN1101711\"}"
+ },
+ {
+  "id": 176,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "COMUNA  BURJUC",
+  "cui": "4374261",
+  "titlu": "502,300 lei = 99.95% din estimare (Buldoexcavator)",
+  "valoare": 502300.0,
+  "detalii": "{\"furnizor\": \"KUHN ROMANIA\", \"data\": \"2026-11-04\", \"estimat\": 502544.48, \"anunt\": \"SCNA1139025\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100666877\"}",
+  "_extra": "{\"furnizor\": \"KUHN ROMANIA\", \"data\": \"2026-11-04\", \"estimat\": 502544.48, \"anunt\": \"SCNA1139025\"}"
+ },
+ {
+  "id": 107,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "JUDETUL GIURGIU",
+  "cui": "4938042",
+  "titlu": "5,882,340 lei = 100.00% din estimare (Microbuz hibrid (școlar))",
+  "valoare": 5882340.0,
+  "detalii": "{\"furnizor\": \"DMV AVIATECH\", \"data\": \"2025-07-29\", \"estimat\": 5882352.94, \"anunt\": \"CAN1153422\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100571381\"}",
+  "_extra": "{\"furnizor\": \"DMV AVIATECH\", \"data\": \"2025-07-29\", \"estimat\": 5882352.94, \"anunt\": \"CAN1153422\"}"
+ },
+ {
+  "id": 131,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "Universitatea de Medicina, Farmacie, Stiinte si Tehnologie \" George Emil Palade\" din Targu Mures",
+  "cui": "4322742",
+  "titlu": "1,748,366 lei = 99.99% din estimare (Ecograf)",
+  "valoare": 1748365.82,
+  "detalii": "{\"furnizor\": \"THREE PHARM\", \"data\": \"2026-04-20\", \"estimat\": 1748547.26, \"anunt\": \"CAN1166842\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100630822\"}",
+  "_extra": "{\"furnizor\": \"THREE PHARM\", \"data\": \"2026-04-20\", \"estimat\": 1748547.26, \"anunt\": \"CAN1166842\"}"
+ },
+ {
+  "id": 59,
+  "tip": "S13",
+  "scor": 1,
+  "entitate": "COMUNA JIANA",
+  "cui": "4426417",
+  "titlu": "974,500 lei = 99.97% din estimare (Tractor)",
+  "valoare": 974500.0,
+  "detalii": "{\"furnizor\": \"OBAM HOLDING S.R.L.\", \"data\": \"2024-06-26\", \"estimat\": 974780.0, \"anunt\": \"CAN1129184\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100477384\"}",
+  "_extra": "{\"furnizor\": \"OBAM HOLDING S.R.L.\", \"data\": \"2024-06-26\", \"estimat\": 974780.0, \"anunt\": \"CAN1129184\"}"
+ }
+]

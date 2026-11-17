@@ -1,0 +1,46 @@
+[
+ {
+  "id": 6,
+  "tip": "S1",
+  "scor": 1,
+  "entitate": "Judetul Neamt",
+  "cui": "2612839",
+  "titlu": "Microbuz electric (școlar) 16+1 locuri: 1,310,000 lei/buc față de mediana 891,944 (1.5×)",
+  "valoare": 9615288.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"furnizor\": \"BMC TRUCK & BUS\", \"cantitate\": 23.0, \"data\": \"2025-10-03\", \"valoare\": 30130000.0, \"mediana\": 891944.0, \"anunt\": \"CAN1155346\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100580827\", \"text\": \"Contract de achizitie publica de produse | Lot implicit :: Furnizare microbuze electrice pentru elevi  în cadrul proiectului  „MICROBUZE ELECTRICE PENTRU ELEVI LA NIVELUL JUDEȚULUI NEAMȚ” , cod P_38, PNRR , care consta in achiziția a 23 de \"}",
+  "_extra": "{\"furnizor\": \"BMC TRUCK & BUS\", \"cantitate\": 23.0, \"data\": \"2025-10-03\", \"valoare\": 30130000.0, \"anunt\": \"CAN1155346\", \"text\": \"Contract de achizitie publica de produse | Lot implicit :: Furnizare microbuze electrice pentru elevi  în cadrul proiectului  „MICROBUZE ELECTRICE PENTRU ELEVI LA NIVELUL\"}"
+ },
+ {
+  "id": 5,
+  "tip": "S1",
+  "scor": 1,
+  "entitate": "CONSILIUL JUDETEAN OLT",
+  "cui": "4394706",
+  "titlu": "Microbuz electric (școlar) 16+1 locuri: 1,313,000 lei/buc față de mediana 891,944 (1.5×)",
+  "valoare": 8421120.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"furnizor\": \"AVEURO INTERNATIONAL SRL\", \"cantitate\": 20.0, \"data\": \"2024-06-13\", \"valoare\": 26260000.0, \"mediana\": 891944.0, \"anunt\": \"CAN1129919\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100480344\", \"text\": \"Contract Achizitie microbuze electrice in cadrul proiectului „Achizitie Microbuze electrice pentru elevii scolilor din judetul Olt | Lot implicit :: În cadrul acestui contract vor fi achiziționate un număr de 20 de microbuze electrice, cu o\"}",
+  "_extra": "{\"furnizor\": \"AVEURO INTERNATIONAL SRL\", \"cantitate\": 20.0, \"data\": \"2024-06-13\", \"valoare\": 26260000.0, \"anunt\": \"CAN1129919\", \"text\": \"Contract Achizitie microbuze electrice in cadrul proiectului „Achizitie Microbuze electrice pentru elevii scolilor din judetul Olt | Lot implicit :: În cadrul acestui con\"}"
+ },
+ {
+  "id": 2,
+  "tip": "S1",
+  "scor": 1,
+  "entitate": "COMUNA CIOCANESTI (PRIMARIA COMUNEI CIOCANESTI)",
+  "cui": "14953600",
+  "titlu": "Microbuz electric (școlar): 1,469,200 lei/buc față de mediana 1,000,000 (1.5×)",
+  "valoare": 938400.0,
+  "detalii": "{\"cluster\": \"microbuz_electric\", \"furnizor\": \"PACIFIC TUR\", \"cantitate\": 2.0, \"data\": \"2024-06-04\", \"valoare\": 2938400.0, \"mediana\": 1000000.0, \"anunt\": \"CAN1127735\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100471639\", \"text\": \"Achiziție microbuze nepoluante, inclusiv a staților de încărcare lente si rapide aferente, prin proiectul finantate in cadrul Planului Național de Redresare și Reziliență, Componenta 10- Fondul Local I.1.1- Înnoirea parcului de vehicule des\"}",
+  "_extra": "{\"furnizor\": \"PACIFIC TUR\", \"cantitate\": 2.0, \"data\": \"2024-06-04\", \"valoare\": 2938400.0, \"anunt\": \"CAN1127735\", \"text\": \"Achiziție microbuze nepoluante, inclusiv a staților de încărcare lente si rapide aferente, prin proiectul finantate in cadrul Planului Național de Redresare și Reziliență\"}"
+ },
+ {
+  "id": 1,
+  "tip": "S1",
+  "scor": 1,
+  "entitate": "PRIMARIA ISACCEA",
+  "cui": "3721907",
+  "titlu": "Buldoexcavator: 688,947 lei/buc față de mediana 447,000 (1.5×)",
+  "valoare": 241947.0,
+  "detalii": "{\"cluster\": \"buldoexcavator\", \"furnizor\": \"TERRA ROMANIA UTILAJE DE CONSTRUCTII S.R.L.\", \"cantitate\": 1.0, \"data\": \"2026-09-09\", \"valoare\": 688947.0, \"mediana\": 447000.0, \"anunt\": \"SCNA1137210\", \"link\": \"https://e-licitatie.ro/pub/notices/ca-notices/view/100656101\", \"text\": \"Furnizare BULDOEXCAVATOR NOU – 1 bucată, în cadrul proiectului:\\nEcoCLUSTER - Creșterea capacității LPA în zona de graniță Tulcea-Odessa, prin dezvoltarea sistemelor de economie circulară, energie verde și înființarea unui cluster transfront\"}",
+  "_extra": "{\"furnizor\": \"TERRA ROMANIA UTILAJE DE CONSTRUCTII S.R.L.\", \"cantitate\": 1.0, \"data\": \"2026-09-09\", \"valoare\": 688947.0, \"anunt\": \"SCNA1137210\", \"text\": \"Furnizare BULDOEXCAVATOR NOU – 1 bucată, în cadrul proiectului:\\nEcoCLUSTER - Creșterea capacității LPA în zona de graniță Tulcea-Odessa, prin dezvoltarea sistemelor de ec\"}"
+ }
+]

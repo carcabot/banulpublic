@@ -1,0 +1,12 @@
+data/
+logs/
+site/dist/
+__pycache__/
+.venv/
+.env
+.vscode/
+.DS_Store
+*.pyc
+node_modules/
+.env.*
+!.env.example

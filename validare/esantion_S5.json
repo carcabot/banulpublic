@@ -1,0 +1,112 @@
+[
+ {
+  "id": 281,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "HAGAG DISTRIBUTIE SI FURNIZARE S.R.L.",
+  "cui": "52372058",
+  "titlu": "înființată 2025-08-22, primul contract după 6 luni; 226.5 mil. lei în primele 18 luni la 2 autorități",
+  "valoare": 226459173.0,
+  "detalii": "{\"inregistrare\": \"2025-08-22\", \"primul_contract\": \"2026-03-20\", \"contracte\": 2, \"autoritati\": [\"COMUNA FANTANELE\", \"COMUNA VOICESTI (PRIMARIA VOICESTI)\"]}",
+  "_extra": "CAEN 3522 | MUNICIPIUL BUCUREŞTI, SECTOR 1, STR GHEŢARILOR, NR | INREGISTRAT din data 22.08.202 | obiecte: ['Distributie de gaz (Rev.2)', 'Lucrari de constructii de co'] | asociat în: (0, 2) | aut: COMUNA FANTANELE; COMUNA VOICESTI (PRIMARI"
+ },
+ {
+  "id": 282,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "STRABAG CONSTRUCT S.R.L.",
+  "cui": "50776017",
+  "titlu": "înființată 2024-10-28, primul contract după 7 luni; 109.1 mil. lei în primele 18 luni la 6 autorități",
+  "valoare": 109100262.0,
+  "detalii": "{\"inregistrare\": \"2024-10-28\", \"primul_contract\": \"2025-06-10\", \"contracte\": 6, \"autoritati\": [\"COMPANIA DE APA TARGOVISTE- DAMBOVITA\", \"REGIA NATIONALA A PADURILOR - ROMSILVA RA\", \"COMUNA DOBROESTI\", \"MUNICIPIUL ADJUD\", \"COMUNA SFINTU GHEORGHE\", \"JUDETUL IALOMITA\", \"R.A. AEROPORTUL IASI\"]}",
+  "_extra": "CAEN 4100 | MUNICIPIUL BUCUREŞTI, SECTOR 5, CAL 13 SEPTEMBRIE, | INREGISTRAT din data 25.10.202 | obiecte: ['Lucrari generale de construc', 'Lucrari de constructii de ce'] | asociat în: (0, 6) | aut: COMPANIA DE APA TARGOVIS; REGIA NATIONALA A PADURI; COMUNA DOBROESTI"
+ },
+ {
+  "id": 283,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "CHALLENGE CONCEPT S.R.L.",
+  "cui": "46685549",
+  "titlu": "înființată 2022-08-22, primul contract după 6 luni; 83.0 mil. lei în primele 18 luni la 1 autorități",
+  "valoare": 83020181.66666667,
+  "detalii": "{\"inregistrare\": \"2022-08-22\", \"primul_contract\": \"2023-02-27\", \"contracte\": 6, \"autoritati\": [\"SECTOR 3 (PRIMARIA SECTOR 3 BUCURESTI)\"]}",
+  "_extra": "CAEN 6820 | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR DOAMNA GHICA,  | INREGISTRAT din data 22.08.202 | obiecte: ['Lucrari de pavare si de asfa', 'Lucrari de constructii de zo'] | asociat în: (1, 13) | aut: SECTOR 3 (PRIMARIA SECTO"
+ },
+ {
+  "id": 284,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "DEVELOPMENT LEAGUE S.R.L.",
+  "cui": "50434553",
+  "titlu": "înființată 2024-08-13, primul contract după 10 luni; 68.6 mil. lei în primele 18 luni la 1 autorități",
+  "valoare": 68620068.0,
+  "detalii": "{\"inregistrare\": \"2024-08-13\", \"primul_contract\": \"2025-06-16\", \"contracte\": 3, \"autoritati\": [\"Institutul National de Gerontologie si Geriatrie  ANA ASLAN\"]}",
+  "_extra": "CAEN 4334 | MUNICIPIUL BUCUREŞTI, SECTOR 2, STR GRIGORE IONESC | INREGISTRAT din data 13.08.202 | obiecte: ['Diverse materiale de constru'] | asociat în: (0, 3) | aut: Institutul National de G"
+ },
+ {
+  "id": 285,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "PACIFIC ELECTRIC BUS S.R.L.",
+  "cui": "50835571",
+  "titlu": "înființată 2024-11-06, primul contract după 3 luni; 48.9 mil. lei în primele 18 luni la 13 autorități",
+  "valoare": 48904450.0,
+  "detalii": "{\"inregistrare\": \"2024-11-06\", \"primul_contract\": \"2025-02-25\", \"contracte\": 13, \"autoritati\": [\"URBIS S.A. Baia Mare\", \"JUDETUL CARAS-SEVERIN\", \"Comuna Deleni\", \"COMUNA LUNCA CORBULUI (PRIMARIA LUNCA CORBULUI JUD. ARGES)\", \"JUDETUL  IALOMITA\", \"JUDETUL BIHOR\", \"COMUNA TAGA (CONSILIUL LOCAL TAGA)\", \"Consiliul Judetean Calarasi\", \"JUDETUL MEHEDINTI\", \"JUDETUL SIBIU\"]}",
+  "_extra": "CAEN 4781 | MUNICIPIUL BUCUREŞTI, SECTOR 6, BLD IULIU MANIU, N | INREGISTRAT din data 06.11.202 | obiecte: ['Vehicule electrice (Rev.2)', 'Microbuze (Rev.2)'] | asociat în: (0, 13) | aut: URBIS S.A. Baia Mare; JUDETUL CARAS-SEVERIN; Comuna Deleni"
+ },
+ {
+  "id": 363,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "VALDO LAB S.R.L.",
+  "cui": "47281166",
+  "titlu": "înființată 2022-12-08, primul contract după 4 luni; 2.3 mil. lei în primele 18 luni la 1 autorități",
+  "valoare": 2320600.0,
+  "detalii": "{\"inregistrare\": \"2022-12-08\", \"primul_contract\": \"2023-04-19\", \"contracte\": 1, \"autoritati\": [\"Universitatea \\\"Alexandru Ioan Cuza\\\" Iasi\"]}",
+  "_extra": "CAEN 4669 | JUD. IAŞI, MUN. IAŞI, BLD. CAROL I, NR.48, PARTER  | RADIERE din data 19.11.2024 | obiecte: ['Instrumente de masurare (Rev'] | asociat în: (0, 1) | aut: Universitatea \"Alexandru"
+ },
+ {
+  "id": 306,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "BODENMEISTER S.R.L.",
+  "cui": "52556182",
+  "titlu": "înființată 2025-09-23, primul contract după 1 luni; 13.1 mil. lei în primele 18 luni la 2 autorități",
+  "valoare": 13129717.0,
+  "detalii": "{\"inregistrare\": \"2025-09-23\", \"primul_contract\": \"2025-11-07\", \"contracte\": 8, \"autoritati\": [\"REGIA NATIONALA A PADURILOR - ROMSILVA RA\", \"REGIA NATIONALA A PADURILOR - ROMSILVA DIRECTIA DE CRESTERE\", \" EXPLOATARE SI AMELIORARE A CABALINELOR R.A.\"]}",
+  "_extra": "CAEN 4312 | JUD. TIMIŞ, MUN. TIMIŞOARA, BLD. TAKE IONESCU, NR. | INREGISTRAT din data 23.09.202 | obiecte: ['Servicii de impadurire (Rev.', 'Servicii de exploatare fores'] | asociat în: (0, 8) | aut: REGIA NATIONALA A PADURI; REGIA NATIONALA A PADURI;  EXPLOATARE SI AMELIORAR"
+ },
+ {
+  "id": 308,
+  "tip": "S5",
+  "scor": 2,
+  "entitate": "CONCIVIC CONSTRUCT S.R.L.",
+  "cui": "46364522",
+  "titlu": "înființată 2022-06-24, primul contract după 9 luni; 11.7 mil. lei în primele 18 luni la 5 autorități",
+  "valoare": 11679991.333333332,
+  "detalii": "{\"inregistrare\": \"2022-06-24\", \"primul_contract\": \"2023-04-19\", \"contracte\": 8, \"autoritati\": [\"SC URBAN SA\", \"JUDETUL  IALOMITA\", \"COMUNA GRINDU\", \"Comuna Saveni\", \"Orasul Amara\"]}",
+  "_extra": "CAEN 4100 | JUD. IALOMIŢA, MUN. SLOBOZIA, STR. CLOŞCA, NR.20,  | INREGISTRAT din data 24.06.202 | obiecte: ['Lucrari de constructii (Rev.', 'Lucrari de constructii de ca'] | asociat în: (7, 9) | aut: SC URBAN SA; JUDETUL  IALOMITA; COMUNA GRINDU"
+ },
+ {
+  "id": 359,
+  "tip": "S5",
+  "scor": 2,
+  "entitate": "MEDKIT S.R.L.",
+  "cui": "49960970",
+  "titlu": "înființată 2024-04-17, primul contract după 8 luni; 2.4 mil. lei în primele 18 luni la 3 autorități",
+  "valoare": 2440368.0,
+  "detalii": "{\"inregistrare\": \"2024-04-17\", \"primul_contract\": \"2024-12-23\", \"contracte\": 5, \"autoritati\": [\"Spitalul Universitar de Urgenta Militar Central \\\"Dr. Carol Davila\\\"\", \"Spital Clinic Judetean de Urgenta \\\"Pius Brinzeu\\\" Timisoara\", \"SPITALUL CLINIC CAI FERATE IASI\"]}",
+  "_extra": "CAEN 4646 | JUD. ILFOV, ORŞ. BUFTEA, STR. ANEMONELOR, NR.46 | INREGISTRAT din data 17.04.202 | obiecte: ['Implanturi chirurgicale (Rev', 'Consumabile medicale nechimi'] | asociat în: (4, 5) | aut: Spitalul Universitar de ; Spital Clinic Judetean d; SPITALUL CLINIC CAI FERA"
+ },
+ {
+  "id": 292,
+  "tip": "S5",
+  "scor": 3,
+  "entitate": "FOX WLADI S.R.L.",
+  "cui": "52795627",
+  "titlu": "înființată 2025-10-29, primul contract după 2 luni; 23.3 mil. lei în primele 18 luni la 1 autorități",
+  "valoare": 23329494.0,
+  "detalii": "{\"inregistrare\": \"2025-10-29\", \"primul_contract\": \"2026-01-26\", \"contracte\": 12, \"autoritati\": [\"REGIA NATIONALA A PADURILOR - ROMSILVA RA\"]}",
+  "_extra": "CAEN 5520 | JUD. MUREŞ, SAT MEŞTERA COM. STÂNCENI, STR MEŞTERA | INREGISTRAT din data 29.10.202 | obiecte: ['Servicii de exploatare fores'] | asociat în: (0, 12) | aut: REGIA NATIONALA A PADURI"
+ }
+]

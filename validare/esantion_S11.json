@@ -1,0 +1,112 @@
+[
+ {
+  "id": 462,
+  "tip": "S11",
+  "scor": 3,
+  "entitate": "DISTRIBUTIE ENERGIE OLTENIA S.A.",
+  "cui": "14491102",
+  "titlu": "3 câștigători cu același sediu: ADREM INVEST, ADREM ENGINEERING SRL, ADREM LINK",
+  "valoare": 1331406066.0,
+  "detalii": "{\"adresa\": \"Municipiul Bucure Ti Sector 1 Bld Iancu De Hunedoara Nr 48 Cladirea Crystal Tower Si 8\", \"firme\": [{\"cui\": \"3020924\", \"nume\": \"ADREM INVEST\", \"valoare\": 997711464.1, \"contracte\": 46}, {\"cui\": \"31954525\", \"nume\": \"ADREM ENGINEERING SRL\", \"valoare\": 94712756.9, \"contracte\": 11}, {\"cui\": \"36126264\", \"nume\": \"ADREM LINK\", \"valoare\": 238981845.0, \"contracte\": 4}]}",
+  "_extra": "Municipiul Bucure Ti Sector 1 Bld Iancu De Hunedoara Nr 48 C | ADREM INVEST 997.7m/46c; ADREM ENGINEERING SRL 94.7m/11c; ADREM LINK 239.0m/4c"
+ },
+ {
+  "id": 494,
+  "tip": "S11",
+  "scor": 3,
+  "entitate": "COMPANIA NATIONALA DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+  "cui": "16054368",
+  "titlu": "3 câștigători cu același sediu: DIFERIT S.R.L., ASPHADIF S.R.L., DIFERIT AG",
+  "valoare": 635076276.8150183,
+  "detalii": "{\"adresa\": \"Jud Cluj Mun Cluj Napoca Bld Muncii Nr 18\", \"firme\": [{\"cui\": \"13845570\", \"nume\": \"DIFERIT S.R.L.\", \"valoare\": 119439559.32417582, \"contracte\": 4}, {\"cui\": \"18831029\", \"nume\": \"ASPHADIF S.R.L.\", \"valoare\": 2629224.0, \"contracte\": 3}, {\"cui\": \"25113978\", \"nume\": \"DIFERIT AG\", \"valoare\": 513007493.49084246, \"contracte\": 55}]}",
+  "_extra": "Jud Cluj Mun Cluj Napoca Bld Muncii Nr 18 | DIFERIT S.R.L. 119.4m/4c; ASPHADIF S.R.L. 2.6m/3c; DIFERIT AG 513.0m/55c"
+ },
+ {
+  "id": 967,
+  "tip": "S11",
+  "scor": 3,
+  "entitate": "INSPECTORATUL GENERAL AL POLITIEI ROMANE",
+  "cui": "4453144",
+  "titlu": "3 câștigători cu același sediu: UNION CO, UNION PROTECTION S.R.L., HA & SZ SRL",
+  "valoare": 193966019.0,
+  "detalii": "{\"adresa\": \"Jud Cluj Mun Cluj Napoca Str Nikola Tesla Nr 4\", \"firme\": [{\"cui\": \"16591086\", \"nume\": \"UNION CO\", \"valoare\": 188938875.0, \"contracte\": 42}, {\"cui\": \"25146010\", \"nume\": \"UNION PROTECTION S.R.L.\", \"valoare\": 4380360.0, \"contracte\": 4}, {\"cui\": \"51411922\", \"nume\": \"HA & SZ SRL\", \"valoare\": 646784.0, \"contracte\": 1}]}",
+  "_extra": "Jud Cluj Mun Cluj Napoca Str Nikola Tesla Nr 4 | UNION CO 188.9m/42c; UNION PROTECTION S.R.L. 4.4m/4c; HA & SZ SRL 0.6m/1c"
+ },
+ {
+  "id": 1071,
+  "tip": "S11",
+  "scor": 3,
+  "entitate": "MUNICIPIUL CONSTANTA",
+  "cui": "4785631",
+  "titlu": "3 câștigători cu același sediu: MULTIBUSINESS INVEST, SC NEMAR EDIL-CONSTRUCT SRL, NEMAR EDIL GENERAL",
+  "valoare": 61317450.0,
+  "detalii": "{\"adresa\": \"Municipiul Bucure Ti Sector 6 Bld Timi Oara Nr 89 91\", \"firme\": [{\"cui\": \"18085530\", \"nume\": \"MULTIBUSINESS INVEST\", \"valoare\": 13901465.333333334, \"contracte\": 4}, {\"cui\": \"18323489\", \"nume\": \"SC NEMAR EDIL-CONSTRUCT SRL\", \"valoare\": 23707992.333333332, \"contracte\": 6}, {\"cui\": \"39350753\", \"nume\": \"NEMAR EDIL GENERAL\", \"valoare\": 23707992.333333332, \"contracte\": 6}]}",
+  "_extra": "Municipiul Bucure Ti Sector 6 Bld Timi Oara Nr 89 91 | MULTIBUSINESS INVEST 13.9m/4c; SC NEMAR EDIL-CONSTRUCT SR 23.7m/6c; NEMAR EDIL GENERAL 23.7m/6c"
+ },
+ {
+  "id": 577,
+  "tip": "S11",
+  "scor": 3,
+  "entitate": "Societatea COMPLEXUL ENERGETIC OLTENIA SA",
+  "cui": "30267310",
+  "titlu": "3 câștigători cu același sediu: PRISTA OIL ROMANIA, S.C. PREMIUM LUBRICANTS S.A., S.C. DRAEGER ROMANIA S.R.L.",
+  "valoare": 22321839.5,
+  "detalii": "{\"adresa\": \"Municipiul Bucure Ti Sector 1 Cal Floreasca Nr 169A\", \"firme\": [{\"cui\": \"10791204\", \"nume\": \"PRISTA OIL ROMANIA\", \"valoare\": 12697427.5, \"contracte\": 14}, {\"cui\": \"11826513\", \"nume\": \"S.C. PREMIUM LUBRICANTS S.A.\", \"valoare\": 9598547.0, \"contracte\": 9}, {\"cui\": \"2836925\", \"nume\": \"S.C. DRAEGER ROMANIA S.R.L.\", \"valoare\": 25865.0, \"contracte\": 1}]}",
+  "_extra": "Municipiul Bucure Ti Sector 1 Cal Floreasca Nr 169A | PRISTA OIL ROMANIA 12.7m/14c; S.C. PREMIUM LUBRICANTS S. 9.6m/9c; S.C. DRAEGER ROMANIA S.R.L 0.0m/1c"
+ },
+ {
+  "id": 702,
+  "tip": "S11",
+  "scor": 2,
+  "entitate": "MUNICIPIUL BRAILA",
+  "cui": "4205670",
+  "titlu": "2 câștigători cu același sediu: ELNET INSTAL, SUNPEAK S.R.L.",
+  "valoare": 21777777.0,
+  "detalii": "{\"adresa\": \"Municipiul Bucure Ti Sector 6 Bld Iuliu Maniu Nr 6R C1\", \"firme\": [{\"cui\": \"20087045\", \"nume\": \"ELNET INSTAL\", \"valoare\": 10888888.5, \"contracte\": 1}, {\"cui\": \"44256508\", \"nume\": \"SUNPEAK S.R.L.\", \"valoare\": 10888888.5, \"contracte\": 1}]}",
+  "_extra": "Municipiul Bucure Ti Sector 6 Bld Iuliu Maniu Nr 6R C1 | ELNET INSTAL 10.9m/1c; SUNPEAK S.R.L. 10.9m/1c"
+ },
+ {
+  "id": 1023,
+  "tip": "S11",
+  "scor": 2,
+  "entitate": "Spitalul Judetan de Urgenta \"Mavromati\" Botosani",
+  "cui": "4557951",
+  "titlu": "2 câștigători cu același sediu: B.BRAUN MEDICAL SRL, B. BRAUN AVITUM S.R.L.",
+  "valoare": 97412994.33333333,
+  "detalii": "{\"adresa\": \"Jud Timi Sat Sânandrei Com Sânandrei Str Bernd Braun Nr 1\", \"firme\": [{\"cui\": \"11080242\", \"nume\": \"B.BRAUN MEDICAL SRL\", \"valoare\": 95751884.33333333, \"contracte\": 394}, {\"cui\": \"23517392\", \"nume\": \"B. BRAUN AVITUM S.R.L.\", \"valoare\": 1661110.0, \"contracte\": 15}]}",
+  "_extra": "Jud Timi Sat Sânandrei Com Sânandrei Str Bernd Braun Nr 1 | B.BRAUN MEDICAL SRL 95.8m/394c; B. BRAUN AVITUM S.R.L. 1.7m/15c"
+ },
+ {
+  "id": 388,
+  "tip": "S11",
+  "scor": 2,
+  "entitate": "COMPANIA NATIONALA \"ADMINISTRATIA PORTURILOR MARITIME\" SA CONSTANTA",
+  "cui": "11062831",
+  "titlu": "2 câștigători cu același sediu: UTILNAVOREP, UTILNAVOREP SERVICE",
+  "valoare": 14141708.0,
+  "detalii": "{\"adresa\": \"Jud Constan A Mun Constan A Bld Aurel Vlaicu Nr 52\", \"firme\": [{\"cui\": \"1905300\", \"nume\": \"UTILNAVOREP\", \"valoare\": 7110854.0, \"contracte\": 6}, {\"cui\": \"43294252\", \"nume\": \"UTILNAVOREP SERVICE\", \"valoare\": 7030854.0, \"contracte\": 5}]}",
+  "_extra": "Jud Constan A Mun Constan A Bld Aurel Vlaicu Nr 52 | UTILNAVOREP 7.1m/6c; UTILNAVOREP SERVICE 7.0m/5c"
+ },
+ {
+  "id": 737,
+  "tip": "S11",
+  "scor": 2,
+  "entitate": "Inspectoratul pentru Situatii de Urgenta \"Bucovina\" Suceava",
+  "cui": "4244490",
+  "titlu": "2 câștigători cu același sediu: TRUTZI, TRUTZI CONSTRUCT S.R.L.",
+  "valoare": 2152012.6666666665,
+  "detalii": "{\"adresa\": \"Jud Suceava Sat Cheia Com Cheia Str Aleea Vămii Nr 26\", \"firme\": [{\"cui\": \"17898144\", \"nume\": \"TRUTZI\", \"valoare\": 1076006.3333333333, \"contracte\": 1}, {\"cui\": \"42962728\", \"nume\": \"TRUTZI CONSTRUCT S.R.L.\", \"valoare\": 1076006.3333333333, \"contracte\": 1}]}",
+  "_extra": "Jud Suceava Sat Cheia Com Cheia Str Aleea Vămii Nr 26 | TRUTZI 1.1m/1c; TRUTZI CONSTRUCT S.R.L. 1.1m/1c"
+ },
+ {
+  "id": 681,
+  "tip": "S11",
+  "scor": 2,
+  "entitate": "SPITALUL UNIVERSITAR DE URGENTA ELIAS",
+  "cui": "4192537",
+  "titlu": "2 câștigători cu același sediu: MEDIPLUS EXIM, DR.MAX",
+  "valoare": 415295653.0,
+  "detalii": "{\"adresa\": \"Jud Ilfov Com Mogo Oaia Str Aeroportului Nr 53\", \"firme\": [{\"cui\": \"9311280\", \"nume\": \"MEDIPLUS EXIM\", \"valoare\": 30748896.0, \"contracte\": 22}, {\"cui\": \"9378655\", \"nume\": \"DR.MAX\", \"valoare\": 384546757.0, \"contracte\": 67}]}",
+  "_extra": "Jud Ilfov Com Mogo Oaia Str Aeroportului Nr 53 | MEDIPLUS EXIM 30.7m/22c; DR.MAX 384.5m/67c"
+ }
+]

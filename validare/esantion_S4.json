@@ -1,0 +1,101 @@
+[
+ {
+  "id": 205,
+  "tip": "S4",
+  "scor": 3,
+  "entitate": "Asociatia Universitatilor, Institutelor de Cercetare – Dezvoltare si  Bibliotecilor Centrale Universitare din România",
+  "cui": "29489879",
+  "titlu": "E-NFORMATION: 87% din contractele autorității și 98% din veniturile publice ale firmei",
+  "valoare": 139086200.0,
+  "detalii": "{\"furnizor\": \"E-NFORMATION\", \"cui_furnizor\": \"14159813\", \"proceduri\": 3, \"contracte\": 3, \"perioada\": [\"2025-01-03\", \"2026-02-23\"], \"total_autoritate\": 160731362.0, \"alte_autoritati_ale_firmei\": 5}",
+  "_extra": "n=3 ['2025-01-03', '2026-02-23'] alte_aut=5 | obiecte: ['Servicii de baze de date (Rev.'] | proceduri: [('Licitatie deschisa', 4)]"
+ },
+ {
+  "id": 206,
+  "tip": "S4",
+  "scor": 3,
+  "entitate": "SOCIETATEA DE REPARATII LOCOMOTIVE C.F.R. S.C.R.L. BRASOV S.A.",
+  "cui": "14257595",
+  "titlu": "PROMAT S.R.L.: 62% din contractele autorității și 99% din veniturile publice ale firmei",
+  "valoare": 109564100.0,
+  "detalii": "{\"furnizor\": \"PROMAT S.R.L.\", \"cui_furnizor\": \"3440120\", \"proceduri\": 3, \"contracte\": 3, \"perioada\": [\"2023-05-30\", \"2024-08-01\"], \"total_autoritate\": 177933887.0, \"alte_autoritati_ale_firmei\": 1}",
+  "_extra": "n=3 ['2023-05-30', '2024-08-01'] alte_aut=1 | obiecte: ['Piese pentru locomotive sau ma', 'Servicii de reparare si de int'] | proceduri: [('Licitatie deschisa', 9)]"
+ },
+ {
+  "id": 209,
+  "tip": "S4",
+  "scor": 3,
+  "entitate": "CONVERSMIN     S.A.",
+  "cui": "14923006",
+  "titlu": "CARTEL BAU: 68% din contractele autorității și 100% din veniturile publice ale firmei",
+  "valoare": 46430968.0,
+  "detalii": "{\"furnizor\": \"CARTEL BAU\", \"cui_furnizor\": \"214594\", \"proceduri\": 9, \"contracte\": 9, \"perioada\": [\"2023-03-21\", \"2025-08-20\"], \"total_autoritate\": 68556693.0, \"alte_autoritati_ale_firmei\": 0}",
+  "_extra": "n=9 ['2023-03-21', '2025-08-20'] alte_aut=0 | obiecte: ['Servicii de tratare a apelor r'] | proceduri: [('Licitatie deschisa', 39)]"
+ },
+ {
+  "id": 210,
+  "tip": "S4",
+  "scor": 3,
+  "entitate": "COMUNA BOLINTIN DEAL",
+  "cui": "5843129",
+  "titlu": "STYLE CONSTRUCT S.R.L.: 69% din contractele autorității și 83% din veniturile publice ale firmei",
+  "valoare": 30641630.0,
+  "detalii": "{\"furnizor\": \"STYLE CONSTRUCT S.R.L.\", \"cui_furnizor\": \"3212911\", \"proceduri\": 9, \"contracte\": 9, \"perioada\": [\"2023-07-05\", \"2026-09-23\"], \"total_autoritate\": 44424754.0, \"alte_autoritati_ale_firmei\": 1}",
+  "_extra": "n=9 ['2023-07-05', '2026-09-23'] alte_aut=1 | obiecte: ['Lucrari de constructii de drum', 'Lucrari de constructii de cana'] | proceduri: [('Procedura simplificata', 14)]"
+ },
+ {
+  "id": 204,
+  "tip": "S4",
+  "scor": 2,
+  "entitate": "Institutul National de Cercetare Dezvoltare pentru Fizica si Inginerie Nucleara \"Horia Hulubei\"",
+  "cui": "3321234",
+  "titlu": "RI Research Instruments GmbH: 46% din contractele autorității și 100% din veniturile publice ale firmei",
+  "valoare": 195342153.0,
+  "detalii": "{\"furnizor\": \"RI Research Instruments GmbH\", \"cui_furnizor\": \"DE263466955\", \"proceduri\": 5, \"contracte\": 5, \"perioada\": [\"2024-09-19\", \"2026-03-25\"], \"total_autoritate\": 425191928.0, \"alte_autoritati_ale_firmei\": 0}",
+  "_extra": "n=5 ['2024-09-19', '2026-03-25'] alte_aut=0 | obiecte: ['Echipament electronic (Rev.2)', 'Acceleratoare de particule (Re'] | proceduri: [('Licitatie deschisa', 5)]"
+ },
+ {
+  "id": 211,
+  "tip": "S4",
+  "scor": 2,
+  "entitate": "SERVICIUL DE AMBULANTA JUDETEAN BUZAU",
+  "cui": "7482969",
+  "titlu": "ELCAR GID S.R.L.: 42% din contractele autorității și 97% din veniturile publice ale firmei",
+  "valoare": 9179933.0,
+  "detalii": "{\"furnizor\": \"ELCAR GID S.R.L.\", \"cui_furnizor\": \"15204785\", \"proceduri\": 3, \"contracte\": 3, \"perioada\": [\"2023-01-30\", \"2026-09-21\"], \"total_autoritate\": 21995219.0, \"alte_autoritati_ale_firmei\": 2}",
+  "_extra": "n=3 ['2023-01-30', '2026-09-21'] alte_aut=2 | obiecte: ['Servicii de reparare si de int'] | proceduri: [('Licitatie deschisa', 42)]"
+ },
+ {
+  "id": 207,
+  "tip": "S4",
+  "scor": 2,
+  "entitate": "Autoritatea Nationala pentru Administrare si Reglementare in Comunicatii",
+  "cui": "14751237",
+  "titlu": "ROHDE & SCHWARZ ROMANIA S.R.L.: 43% din contractele autorității și 89% din veniturile publice ale firmei",
+  "valoare": 99186020.0,
+  "detalii": "{\"furnizor\": \"ROHDE & SCHWARZ ROMANIA S.R.L.\", \"cui_furnizor\": \"13868973\", \"proceduri\": 9, \"contracte\": 9, \"perioada\": [\"2023-01-26\", \"2026-09-02\"], \"total_autoritate\": 232810760.0, \"alte_autoritati_ale_firmei\": 9}",
+  "_extra": "n=9 ['2023-01-26', '2026-09-02'] alte_aut=9 | obiecte: ['Echipament de masurare a emisi', 'Servicii de reparare si de int'] | proceduri: [('Licitatie deschisa', 124)]"
+ },
+ {
+  "id": 208,
+  "tip": "S4",
+  "scor": 2,
+  "entitate": "Inspectoratul pentru Situatii de Urgenta \"Dealul Spirii\" Bucuresti - Ilfov",
+  "cui": "33949746",
+  "titlu": "QUADRILLE AUTOMOTIVE SRL: 43% din contractele autorității și 100% din veniturile publice ale firmei",
+  "valoare": 50723126.0,
+  "detalii": "{\"furnizor\": \"QUADRILLE AUTOMOTIVE SRL\", \"cui_furnizor\": \"16155516\", \"proceduri\": 3, \"contracte\": 3, \"perioada\": [\"2023-02-21\", \"2026-08-27\"], \"total_autoritate\": 117095052.0, \"alte_autoritati_ale_firmei\": 0}",
+  "_extra": "n=3 ['2023-02-21', '2026-08-27'] alte_aut=0 | obiecte: ['Servicii de reparare si de int'] | proceduri: [('Licitatie deschisa', 284)]"
+ },
+ {
+  "id": 212,
+  "tip": "S4",
+  "scor": 2,
+  "entitate": "INSPECTORATUL PENTRU SITUATII DE URGENTA \"SERBAN CANTACUZINO\" AL JUDETULUI PRAHOVA",
+  "cui": "2998382",
+  "titlu": "CTP SERVICE AUTOCAMIOANE SRL: 42% din contractele autorității și 100% din veniturile publice ale firmei",
+  "valoare": 6540530.0,
+  "detalii": "{\"furnizor\": \"CTP SERVICE AUTOCAMIOANE SRL\", \"cui_furnizor\": \"25299375\", \"proceduri\": 5, \"contracte\": 5, \"perioada\": [\"2023-02-22\", \"2026-09-07\"], \"total_autoritate\": 15441045.0, \"alte_autoritati_ale_firmei\": 0}",
+  "_extra": "n=5 ['2023-02-22', '2026-09-07'] alte_aut=0 | obiecte: ['Servicii de reparare si de int'] | proceduri: [('Licitatie deschisa', 80), ('Procedura simplificata', 37)]"
+ }
+]

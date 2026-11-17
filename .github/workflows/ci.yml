@@ -1,0 +1,24 @@
+name: ci
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: oven-sh/setup-bun@v2
+      - name: Python syntax
+        run: python3 -m compileall -q common.py ingest transform detect site validare
+      - name: TypeScript syntax and imports
+        run: bun build web/server.ts web/smoke.ts --target=bun --outdir "$RUNNER_TEMP/radar-build"
