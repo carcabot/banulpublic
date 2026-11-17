@@ -3,7 +3,7 @@
 // Contractul uneltelor este descris în docs/mcp.md; păstrează cele două în pas.
 import type { Database } from "bun:sqlite";
 
-export const MCP_VERSION = "0.1.0"; // x-release-please-version
+export const MCP_VERSION = "0.2.0"; // x-release-please-version
 const PROTOCOLS = ["2025-11-25", "2025-06-18", "2025-03-26", "2024-11-05"];
 const MAX_BODY = 64 * 1024;
 const PAGE = 50, PAGE_SEMNALE = 30;
